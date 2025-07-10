@@ -4,11 +4,8 @@
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/?authuser=developerflavia@gmail.com)
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fasjesus&layout=compact&show_icons=true&hide=contribs,prs&cache_seconds=86400&count_private=true&theme=github_dark#gh-dark-mode-only"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fasjesus&layout=compact&show_icons=true&hide=contribs,prs&cache_seconds=86400&count_private=true&theme=default#gh-light-mode-only"/>
-  
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fasjesus&layout=compact&langs_count=7&theme=github_dark#gh-dark-mode-only"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fasjesus&layout=compact&langs_count=7&theme=default#gh-light-mode-only"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fasjesus&layout=compact&show_icons=true&hide_border=true&bg_color=&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fasjesus&layout=compact&langs_count=7&hide_border=true&bg_color=&theme=dracula"/>
 </div>
 
 ## Experiência com as tecnologias
