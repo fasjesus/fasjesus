@@ -12,9 +12,8 @@
 ## Experiência com as tecnologias
 
 
-<img height="32" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-<img height="32" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img height="32" src="https://cdn.iconscout.com/icon/free/png-256/free-c-569564.png" alt="C"/>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/free-react-3-1175109.png" alt="React Native"/></code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-1174965.png" alt="TypeScript"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/python-2-226051.png" alt="python"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
