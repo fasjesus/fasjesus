@@ -5,8 +5,8 @@
 
 <div>
   <a href="https://github.com/fasjesus">    
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fasjesus&layout=compact&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fasjesus&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fasjesus&layout=compact&show_icons=true&hide=contribs,prs&cache_seconds=86400&&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fasjesus&layout=compact&langs_count=7&"/>
 </div>
 
 ## Experiência com as tecnologias
