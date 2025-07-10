@@ -3,10 +3,15 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flávia-alessandra-santos-de-jesus)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/?authuser=developerflavia@gmail.com)
 
-<div>
+<div align="left">
   <a href="https://github.com/fasjesus">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fasjesus&layout=compact&show_icons=true&hide=contribs,prs&cache_seconds=86400&count_private=true&theme=graywhite&bg_color=&hide_border=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fasjesus&layout=compact&langs_count=7&theme=graywhite&bg_color=&hide_border=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fasjesus&layout=compact&show_icons=true&hide=contribs,prs&cache_seconds=86400&count_private=true&theme=github_dark#gh-dark-mode-only"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fasjesus&layout=compact&show_icons=true&hide=contribs,prs&cache_seconds=86400&count_private=true&theme=default#gh-light-mode-only"/>
+  </a>
+  
+  <a>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fasjesus&layout=compact&langs_count=7&theme=github_dark#gh-dark-mode-only"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fasjesus&layout=compact&langs_count=7&theme=default#gh-light-mode-only"/>
   </a>
 </div>
 
