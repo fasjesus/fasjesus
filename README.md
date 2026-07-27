@@ -24,8 +24,9 @@
  Sou uma graduanda em Ciência da Computação e tive contato com as tecnolonias acima. Tenho como meta criar códigos claros e organizados, mantendo-me constantemente em busca de novas técnicas e ferramentas para aprimorar minhas habilidades de desenvolvimento.
 
 ## Atualmente, aprendendo mais sobre
-- Desenvolvimento Frontend (Angular)
-- Desenvolvimento Web3 (solidity)
+- Banco de Dados 
+- CRM
+- Engenharia de Prompt
 
 
 <!--<br clear="both">
