@@ -21,7 +21,7 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 
- Sou uma graduanda em Ciência da Computação e tive contato com as tecnolonias acima. Tenho como meta criar códigos claros e organizados, mantendo-me constantemente em busca de novas técnicas e ferramentas para aprimorar minhas habilidades de desenvolvimento.
+ Bacharel em Ciência da Computação, tive contato com as tecnolonias acima. Tenho como meta criar códigos claros e organizados, mantendo-me constantemente em busca de novas técnicas e ferramentas para aprimorar minhas habilidades de desenvolvimento.
 
 ## Atualmente, aprendendo mais sobre
 - Banco de Dados 
